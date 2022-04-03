@@ -20,7 +20,7 @@
     "noPropertyAccessFromIndexSignature": true,
     // "noUncheckedIndexedAccess": true,
     "noUnusedLocals": true,
-    "noUnusedParameters": true,
+    "noUnusedParameters": false,
     "removeComments": true,
     "sourceMap": true,
     "forceConsistentCasingInFileNames": true,
